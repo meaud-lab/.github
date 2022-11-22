@@ -1,4 +1,5 @@
-## Hi there 👋
+## Meaud Lab
+This github organization serves as a central place for all repositories related to the Meaud Lab at Georgia Institute of Technology
 
 <!--
 
